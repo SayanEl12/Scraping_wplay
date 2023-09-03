@@ -1,2 +1,2 @@
 # Scraping_wplay
-Repositorio encargado de almacenar el codigo respectivo al Scraping de wplay en colaboracion
+consiste en un codigo de extraccion de datos de partidos de hacia un excel.
