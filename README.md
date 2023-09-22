@@ -1,41 +1,49 @@
+Certainly, here's the professional and accessible summary for the README of your "Pre and Post-Match Sports Data Mining Project" on GitHub in English:
+
+---
+
 # Pre and Post-Match Sports Data Mining Project
 
-**Descripción del Proyecto:**
-Este proyecto se centra en la extracción de datos de la plataforma de apuestas deportivas Wplay, tanto antes como después de la ejecución de los partidos. El objetivo principal es recopilar datos esenciales para realizar apuestas informadas y construir modelos de predicción futuros.
+**Project Description:**
+This project focuses on extracting data from the sports betting platform Wplay, both before and after the matches are played. The primary goal is to gather essential data for making informed bets and building future prediction models.
 
-**Objetivos del Proyecto:**
-Este proyecto se inicia como un experimento con la finalidad de desarrollar una base de datos de alta calidad para impulsar futuras predicciones y modelos de apuestas deportivas.
+**Project Objectives:**
+This project begins as an experiment with the aim of developing a high-quality database to drive future sports betting predictions and models.
 
-**Funcionalidades Principales:**
-- Extracción de datos pre-partido y post-partido.
-- Generación de dos tipos de archivos Excel: uno con datos antes de los partidos y otro con datos posteriores.
-- Personalización de las ligas a analizar y los archivos Excel a generar.
-- Fácil ejecución en entornos como Jupyter Notebook o Google Colab con acceso a Internet.
+**Key Features:**
+- Extraction of pre-match and post-match data.
+- Generation of two types of Excel files: one with pre-match data and another with post-match data.
+- Customization of the leagues to analyze and Excel files to generate.
+- Easy execution in environments like Jupyter Notebook or Google Colab with internet access.
 
-**Requisitos de Instalación:**
-Solo se necesita un entorno de desarrollo compatible con Python 3.10.6, como Jupyter Notebook o Google Colab, además de acceso a Internet.
+**Installation Requirements:**
+You only need a development environment compatible with Python 3.10.6, such as Jupyter Notebook or Google Colab, along with internet access.
 
-**Guía de Uso:**
-1. Ejecuta las primeras cuatro casillas.
-2. Luego, ejecuta una casilla que contiene dos listas: una con las URLs de las ligas que deseas analizar y otra con los nombres de los archivos Excel que deseas crear.
-3. A continuación, ejecuta una casilla para el pre-partido utilizando la clase `Excel_pre_partido`, proporcionando la lista de URLs como parámetro.
-4. Por último, ejecuta una casilla para el post-partido utilizando la clase `Excel_pos_partido`, proporcionando la lista de URLs y el archivo Excel como parámetros.
+**Usage Guide:**
+1. Run the first four cells.
+2. Then, execute a cell containing two lists: one with the URLs of the leagues you want to analyze and another with the names of the Excel files you want to create.
+3. Next, run a cell for pre-match using the `Excel_pre_partido` class, providing the list of URLs as a parameter.
+4. Finally, execute a cell for post-match using the `Excel_pos_partido` class, providing the list of URLs and the Excel file as parameters.
 
-**Ejemplos de Uso:**
-- Para el pre-partido: `PRE_PARTIDO = Excel_pre_partido(urls=URLs)`
-- Para el post-partido: `POS_PARTIDO = Excel_pos_partido(urls=URLs, excel=excel)`
+**Usage Examples:**
+- For pre-match: `PRE_PARTIDO = Excel_pre_partido(urls=URLs)`
+- For post-match: `POS_PARTIDO = Excel_pos_partido(urls=URLs, excel=excel)`
 
-**Contribuciones:**
-El proyecto ha sido desarrollado en su totalidad por el creador y no se están aceptando contribuciones externas en este momento.
+**Contributions:**
+The project has been entirely developed by the creator, and external contributions are not currently accepted.
 
-**Licencia:**
-Este proyecto actualmente no cuenta con una licencia específica.
+**License:**
+This project currently does not have a specific license.
 
-**Contacto:**
-Para cualquier pregunta o consulta, puedes contactar al creador a través del correo electrónico: the12sayan@gmail.com
+**Contact:**
+For any questions or inquiries, you can contact the creator via email at: the12sayan@gmail.com
 
-**Estado del Proyecto:**
-El proyecto se encuentra en una fase beta y se actualiza de forma continua para mejorarlo.
+**Project Status:**
+The project is in a beta phase and is continually updated for improvement.
 
-**Prerrequisitos Técnicos:**
-Se requieren conocimientos muy básicos en Python y una instalación de Python 3.10.6 para utilizar este proyecto.
+**Technical Prerequisites:**
+Very basic knowledge of Python and an installation of Python 3.10.6 are required to use this project.
+
+---
+
+This README summary provides a clear and concise overview of your project, allowing both developers and non-technical users to understand and effectively use it. If you have any further changes or adjustments in mind, please let me know, and I'll be happy to help you refine the documentation.
