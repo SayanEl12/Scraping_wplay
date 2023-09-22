@@ -1,7 +1,3 @@
-Certainly, here's the professional and accessible summary for the README of your "Pre and Post-Match Sports Data Mining Project" on GitHub in English:
-
----
-
 # Pre and Post-Match Sports Data Mining Project
 
 **Project Description:**
@@ -43,7 +39,3 @@ The project is in a beta phase and is continually updated for improvement.
 
 **Technical Prerequisites:**
 Very basic knowledge of Python and an installation of Python 3.10.6 are required to use this project.
-
----
-
-This README summary provides a clear and concise overview of your project, allowing both developers and non-technical users to understand and effectively use it. If you have any further changes or adjustments in mind, please let me know, and I'll be happy to help you refine the documentation.
